@@ -1,0 +1,18 @@
+body{
+    color: hsl(0, 50%, 3%);
+    background: rgb(37, 133, 236);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+.name_of_objects{
+    color: rgb(232, 221, 28);
+}
+#camera{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+ 
